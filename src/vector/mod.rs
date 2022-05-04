@@ -1,6 +1,4 @@
 pub mod vec2;
-pub mod vec3;
-pub mod vec4;
 
 use std::ops::{Add, Mul, Sub};
 
